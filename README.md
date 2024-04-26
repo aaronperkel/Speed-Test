@@ -1,5 +1,4 @@
 # Speed Test
-### Aaron Perkel
 
 This was an Advanced Programming assignment to compare the runtimes of Python and C++ as they bubble sort lists of numbers.
 
